@@ -20,8 +20,8 @@ Lifelong Learner, currently working as budagh kompeni.
 ### <summary><strong>Let's connect!</strong></summary>
 
 <a href="https://www.instagram.com/yours/">
-  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+  <img align="left" alt="Goo's Instagram" width="20px" src="[https://simpleicons.now.sh/instagram/495f7e](https://www.instagram.com/farrelabennaya?igsh=MWZrNjl2MjRnOWN4ZQ== )" />
 </a>
 <a href="https://yours.com/">
-  <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
+  <img align="left" alt="Goo's Blog" width="20px" src="https:abennaya.my.id" />
 </a>
