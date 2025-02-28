@@ -1,5 +1,5 @@
 <!--Banner-->
-![farrelabennaya Banner Image](./banner.png)
+![farrelabennaya Banner Image](./bannerrel.png)
 
 <!--Night Owl image-->
 <div>
