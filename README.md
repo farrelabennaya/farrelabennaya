@@ -195,10 +195,10 @@
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://dev.to/farrel_abennaya_f500d4a5a" target="_blank">
+<!-- <a href="https://dev.to/farrel_abennaya_f500d4a5a" target="_blank">
 <img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
 </a>
-</div>
+</div> -->
 <br/>
 
 <!--Buy me a coffee-->
