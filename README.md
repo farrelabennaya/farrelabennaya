@@ -39,12 +39,12 @@
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+  <li>Deepening my knowledge in Web Programming and Mobile Programming.</li>
+  <li>Exploring more code.</li>
+  <li>Improving my skills in Node.js.</li>
 </ul>
   
-<h3 align="left">Latest Blog Posts</h3>
+<!-- <h3 align="left">Latest Blog Posts</h3>
 <ul align="left">
   <li><a href="https://dev.to/dev_kiran/debug-like-a-pro-in-2025-3lg1">😎Debug Like a Pro in 2025🧑‍💻</a></li>
   <li><a href="https://dev.to/dev_kiran/open-source-hidden-gems-v2-4e8j">✨Open-Source Hidden Gems v2🤯</a></li>
@@ -53,7 +53,7 @@
 <br />
 <br />
 <br />
-<br />
+<br /> -->
 
 
 <!--Trophies Section-->   
