@@ -149,7 +149,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Nelson%20Mandela&quote=It%20always%20seems%20impossible%20until%20it's%20done.%20&theme=dark&bg_color=26355D&author_color=9400FF&accent_color=45FFCA">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Nelson%20Mandela&quote=It%20always%20seems%20impossible%20until%20it's%20done.%20&theme=dark&bg_color=26355D&author_color=FFFD8C&accent_color=45FFCA">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
