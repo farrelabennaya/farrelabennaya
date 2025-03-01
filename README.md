@@ -29,7 +29,7 @@
 
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<!-- <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -42,7 +42,7 @@
   <li>Deepening my knowledge in Web Programming and Mobile Programming.</li>
   <li>Exploring more code.</li>
   <li>Improving my skills in Node.js.</li>
-</ul>
+</ul> -->
   
 <!-- <h3 align="left">Latest Blog Posts</h3>
 <ul align="left">
