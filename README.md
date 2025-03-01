@@ -55,7 +55,10 @@
 <br />
 <br /> -->
 
-
+<br />
+<br />
+<br />
+<br />
 <!--Trophies Section-->   
 <!-- <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
@@ -76,6 +79,7 @@
   </a>
 </p>
 <br /> -->
+<br />
 
 <!--Github stats Table--> 
 <!-- <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
