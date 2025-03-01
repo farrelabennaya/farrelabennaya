@@ -55,10 +55,6 @@
 <br />
 <br /> -->
 
-<br />
-<br />
-<br />
-<br />
 <!--Trophies Section-->   
 <!-- <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
@@ -79,7 +75,6 @@
   </a>
 </p>
 <br /> -->
-<br />
 
 <!--Github stats Table--> 
 <!-- <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
@@ -123,9 +118,7 @@
   </tr>
 </table>
 <br /> -->
-<br />
-<br />
-<br />
+
 <!--Contribution Graph-->
 <!-- <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
