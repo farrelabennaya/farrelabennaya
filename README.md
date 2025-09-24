@@ -17,7 +17,7 @@
 - ✨ Just Grow!
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://abennaya.my.id) for more details about me.
+- 💻 Visit my [Portfolio](https://abennaya.vercel.app) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
