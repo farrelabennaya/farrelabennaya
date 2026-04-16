@@ -12,7 +12,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Junior Developer and IoT Enthusiast with a huge love for PHP, Node.js, MySQL, REST API and -. </p>
+<p align="left">I am a Junior Developer with a huge love for Laravel, Node.js, MySQL, REST API and -. </p>
 
 - ✨ Just Grow!
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
